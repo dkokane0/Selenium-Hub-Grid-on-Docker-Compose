@@ -13,6 +13,6 @@ Then run a simple command as given:
 
        docker-compose up -d
          
-2)Stop.
+2) Stop.
 
        docker-compose down
