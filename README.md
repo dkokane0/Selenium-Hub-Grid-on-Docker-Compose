@@ -15,4 +15,4 @@ Then run a simple command as given:
          
 2)Stop.
 
-      docker-compose down
+       docker-compose down
